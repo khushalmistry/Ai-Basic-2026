@@ -600,7 +600,7 @@ What you do with it is up to you.
 ### Course Repository
 
 All course materials, code examples, and lab files are available at:
-**github.com/iotwizz/ai-mastery-course-2026**
+**github.com/khushalmistry/Ai-Basic-2026**
 
 ---
 
